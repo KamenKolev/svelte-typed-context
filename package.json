@@ -1,6 +1,6 @@
 {
   "name": "svelte-typed-context",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strict types for Svelte Context API",
   "main": "index.ts",
   "keywords": [

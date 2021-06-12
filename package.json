@@ -1,0 +1,17 @@
+{
+  "name": "svelte-typed-context",
+  "version": "1.0.0",
+  "description": "Strict types for Svelte Context API",
+  "main": "index.ts",
+  "keywords": [
+    "Svelte",
+    "Context",
+    "Strict",
+    "Types"
+  ],
+  "peerDependencies": {
+    "svelte":"^3.38.2"
+  },
+  "author": "Kamen Kolev",
+  "license": "ISC"
+}

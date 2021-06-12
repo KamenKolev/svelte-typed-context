@@ -10,7 +10,10 @@
     "Types"
   ],
   "peerDependencies": {
-    "svelte":"^3.38.2"
+    "svelte": "^3.38.2"
+  },
+  "repository": {
+    "url": "https://github.com/KamenKolev/svelte-typed-context"
   },
   "author": "Kamen Kolev",
   "license": "ISC"
